@@ -16,5 +16,8 @@
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "c0d50f8133ca3797f33742cee272bbf38495de30"
+  "gitHead": "c0d50f8133ca3797f33742cee272bbf38495de30",
+  "publishConfig": {
+    "access": "public"
+  }
 }
